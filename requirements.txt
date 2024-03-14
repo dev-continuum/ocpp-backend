@@ -1,0 +1,10 @@
+boto3==1.26.104
+fastapi==0.95.0
+loguru==0.6.0
+ocpp==0.18.0
+pydantic==1.10.7
+python-dotenv==1.0.0
+simplejson==3.18.4
+uvicorn==0.21.1
+websockets==11.0
+aiohttp
